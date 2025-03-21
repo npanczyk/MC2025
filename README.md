@@ -26,6 +26,5 @@ This repository contains a set of scripts used to generate results for "Towards 
 Before running the scripts, create a new environment using the packages using `environment.yml`.
 
 ## Running the Scripts
-
-## License
+Simply run `rf.py`, `nn_explain.py`, and `correlation.py` to reproduce all results.
 
