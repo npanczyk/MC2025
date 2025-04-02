@@ -15,7 +15,7 @@ This repository contains a set of scripts used to generate results for "Towards 
   - `correlation.py`: Generates a correlation matrix for the CHF synthetic dataset.
 
 - **Conference Paper**
-  - `conference_paper.pdf`: Alex Xu, Nataly Panczyk, and Majdi Radaideh, "Towards Explainable AI in Nuclear: Introducing Ad Hoc Model Explainability," presented at the American Nuclear Society's Math and Computation Conference, April 27-30, 2025, Denver, CO.
+  - `conference_paper.pdf`: Xu, A., Panczyk, N., Radaideh, M. (2025). Towards Explainable AI in Nuclear. IN Mathematics & Computation (M&C) 2025, Denver, CO. https://www.ans.org/meetings/mc2025/sessions/attachment/paper-12135/
 
 ---
 
